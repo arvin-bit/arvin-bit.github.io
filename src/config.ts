@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Arvin Angali Nezhad",
-  title: "Software Engineer",
+  title: "Software Engineer fuck you"  ,
   description: "Portfolio website of Arvin Angali Nezhad",
   accentColor: "#1d4ed8",
   social: {
