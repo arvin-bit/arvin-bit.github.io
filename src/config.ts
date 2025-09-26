@@ -8,7 +8,7 @@ export const siteConfig = {
     github: "https://github.com/arvin-bit",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "Hello! I am a 12-year-old coder in Sweden and I LOVE what I do! I also love kebab.",
   skills: ["Javascript", "React", "Node.js", "Python", "Lua", "Docker"],
   projects: [
     {
