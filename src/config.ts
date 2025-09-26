@@ -34,7 +34,7 @@ export const siteConfig = {
   education: [
     {
       school: "Svartbäcksskolan",
-      degree: "None",
+      degree: "No degree (yet)",
       dateRange: "2019-present",
       achievements: [
         "Completed 500+ hours of work",
