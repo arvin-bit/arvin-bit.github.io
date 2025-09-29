@@ -14,7 +14,7 @@ export const siteConfig = {
     {
       name: "KaPlay starter",
       description:
-        "A starter kit for KaPlay for schools.",
+        "A starter kit using KaPlay for schools.",
       link: "https://github.com/arvin-bit/kaplaystarter",
       skills: ["TypeScript", "Node-js"],
     }
