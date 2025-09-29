@@ -39,7 +39,7 @@ export const siteConfig = {
       achievements: [
         "Completed 500+ hours of work",
         "Doing math and more",
-        "Very good school!",
+        "Very good school! Skibidi",
       ],
     },
   ],
