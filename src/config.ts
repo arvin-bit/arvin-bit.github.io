@@ -8,7 +8,7 @@ export const siteConfig = {
     github: "https://github.com/arvin-bit",
   },
   aboutMe:
-    "Hello! I am a 12-year-old coder in Sweden and I LOVE what I do! I also love kebab.",
+    "Hello! I am a 12-year-old coder in Sweden and I LOVE what I do!",
   skills: ["Javascript", "React", "Node.js", "Python", "Lua", "Docker"],
   projects: [
     {
