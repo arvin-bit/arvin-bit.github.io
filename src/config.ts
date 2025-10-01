@@ -27,7 +27,7 @@ export const siteConfig = {
       bullets: [
         "Led developing of many sites",
         "Reduced API response times by 40% through optimization",
-        "Mentoring team of around 3 junior developers (mMre soon)",
+        "Mentoring team of around 3 junior developers (More soon)",
       ],
     },
   ],
