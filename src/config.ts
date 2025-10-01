@@ -9,7 +9,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Hello! I am a 12-year-old coder in Sweden and I LOVE what I do!",
-  skills: ["Javascript", "React", "Node.js", "Python", "Lua", "Docker"],
+  skills: ["Javascript", "React", "Node.js", "Python", "Lua", "Docker", "AWS"],
   projects: [
     {
       name: "KaPlay starter",
