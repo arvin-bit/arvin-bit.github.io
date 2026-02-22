@@ -1,14 +1,14 @@
 export const siteConfig = {
-  name: "Arvin Angali Nezhad",
+  name: "Arv** 'ArvandsMonkey' An****",
   title: "Software Engineer"  ,
-  description: "Portfolio website of Arvin Angali Nezhad",
+  description: "Portfolio",
   accentColor: "#1d4ed8",
   social: {
-    email: "arvinangalinezhad@gmail.com",
+    email: "bureau.ultrablackhq@gmail.com",
     github: "https://github.com/arvin-bit",
   },
   aboutMe:
-    "Hello! I am a 12-year-old coder in Sweden and I LOVE what I do!",
+    "Hello! I am a **-year-old coder in Sweden and I LOVE what I do!",
   skills: ["Javascript", "React", "Node.js", "Python", "Lua", "Docker", "AWS"],
   projects: [
     {
@@ -22,24 +22,24 @@ export const siteConfig = {
   experience: [
     {
       company: "None",
-      title: "Freelancer",
+      title: "Freelancer",  
       dateRange: "Jan 2018 - Present",
       bullets: [
         "Led developing of many sites",
-        "Reduced API response times by 40% through optimization",
-        "Mentoring team of around 3 junior developers (More soon)",
+        "Reduced API response times by 49% through optimization",
+        "Mentoring team of around 3 junior developers.",
       ],
     },
   ],
   education: [
     {
-      school: "Svartbäcksskolan",
-      degree: "6A",
-      dateRange: "2019-present",
+      school: "Svartbä********",
+      degree: "*A",
+      dateRange: "20XX-20XX",
       achievements: [
-        "Completed 500+ hours of work",
-        "Doing math and more",
-        "Very good school!",
+        "Completed around 1000+ hours of work.",
+        "Doing a good run of work, studying, and a little bit of coding.",
+        "Nice school with not many amenities, but it's alright.",
       ],
     },
   ],
