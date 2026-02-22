@@ -12,10 +12,10 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "Lua", "Docker", "AWS"],
   projects: [
     {
-      name: "KaPlay starter",
+      name: "Token System",
       description:
-        "A starter kit using KaPlay for no reason except showing here.",
-      link: "https://github.com/arvin-bit/kaplaystarter",
+        "A token system for anyone that is made for no reason except showing here.",
+      link: "https://token-system-pi.vercel.app/",
       skills: ["TypeScript", "Node-js"],
     }
   ],
